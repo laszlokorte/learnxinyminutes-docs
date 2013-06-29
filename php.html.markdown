@@ -28,7 +28,7 @@ configured to respect the [short open tags](http://www.php.net/manual/en/ini.cor
 
 ## [Types](http://www.php.net/manual/en/language.types.php)
 
-Types are [weakly typed](http://en.wikipedia.org/wiki/Strong_and_weak_typing) and begin with the $ symbol.
+Variables are [weakly typed](http://en.wikipedia.org/wiki/Strong_and_weak_typing) and begin with the $ symbol.
 A valid variable name starts with a letter or underscore, followed by any number of letters, numbers, or underscores.
 
 ### Scalars
